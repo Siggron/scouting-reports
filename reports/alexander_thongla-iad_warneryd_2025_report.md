@@ -240,11 +240,3 @@ This analysis relies on data from:
 - Transfermarkt
 
 Thanks to these platforms for providing detailed statistics and player data.
-
-
-
-### Notable achievements in 2025 Superettan
-
-- 🥇 1st in assists
-- 🥉 3rd in assists per 90 minutes
-- 🏅 4th in goal contributions (combined goals + assists)
