@@ -1,3 +1,9 @@
+#project
+/notes/
+
+#not used files
+data/alexander_thongla-iad_warneryd_2024_stats.csv
+
 # IntelliJ IDEA
 .idea/
 *.iml
